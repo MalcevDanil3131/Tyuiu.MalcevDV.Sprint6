@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.MalcevDV.Sprint6.Task0.V27.Lib/Tyuiu.MalcevDV.Sprint6.Task0.V27.Lib.csproj" Id="eed87eb9-1ff7-42cb-81fc-35b857a199f1" />
+    <Project Path="Tyuiu.MalcevDV.Sprint6.Task0.V27.Test/Tyuiu.MalcevDV.Sprint6.Task0.V27.Test.csproj" Id="d29ae9d8-59f1-4a25-90c3-674b20c41860" />
+    <Project Path="Tyuiu.MalcevDV.Sprint6.Task0.V27/Tyuiu.MalcevDV.Sprint6.Task0.V27.csproj" Id="d33f818e-f390-4b82-be4a-bd9979d3e65e" />
+  </Folder>
+</Solution>
